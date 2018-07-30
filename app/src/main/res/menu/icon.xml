@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.siobcode.applicacionsiobhan.MainActivity"
+    >
+
+    <item
+        android:id="@+id/itmenu_favorito"
+        android:icon="@drawable/star"
+        android:title="@string/opcion"
+        app:showAsAction="ifRoom|withText"
+        >
+
+    </item>
+    <item
+        android:id="@+id/itmisfavoritos"
+        android:title="@string/mejores"
+        android:orderInCategory="100"
+        app:showAsAction="never">
+
+    </item>
+
+
+</menu>

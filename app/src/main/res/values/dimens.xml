@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="elevacion_actionbar">4dp</dimen>
+    <dimen name="elevacion_cardview">4dp</dimen>
+    <dimen name="tamaño_texto">25sp</dimen>
+    <dimen name="elevacion_fab">6dp</dimen>
+    <dimen name="margin_fab">16dp</dimen>
+    <dimen name="foto_height">30dp</dimen>
+    <dimen name="foto_width">30dp</dimen>
+    <dimen name="padding_text_right">10dp</dimen>
+
+
+</resources>
